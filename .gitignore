@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -158,17 +159,25 @@ __pycache__/
 
 
 # Virtual environments
+=======
+# Virtual environment
+>>>>>>> 0d944f4 (Initial clean project setup)
 venv/
 .env/
 
 # VS Code
 .vscode/
 
+<<<<<<< HEAD
 # Python build files
+=======
+# Python cache
+>>>>>>> 0d944f4 (Initial clean project setup)
 __pycache__/
 *.pyc
 *.egg-info/
 
+<<<<<<< HEAD
 # Weird temp folders (Windows / pip)
 342/
 
@@ -234,3 +243,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+# Weird temp folders
+342/
+>>>>>>> 0d944f4 (Initial clean project setup)
