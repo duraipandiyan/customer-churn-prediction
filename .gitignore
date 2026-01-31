@@ -156,6 +156,23 @@ Include/
 __pycache__/
 *.pyc
 
+
+# Virtual environments
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# Python build files
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Weird temp folders (Windows / pip)
+342/
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
