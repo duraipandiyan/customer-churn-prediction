@@ -1,6 +1,7 @@
 setuptools
 wheel
 cython
+dill
 flask==2.2.5
 gunicorn==21.2.0
 numpy==1.26.4
