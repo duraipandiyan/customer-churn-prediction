@@ -4,4 +4,4 @@ seaborn
 scikit-learn
 dill
 flask
--e .
+gunicorn
