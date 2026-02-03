@@ -17,7 +17,7 @@ from sklearn.metrics import confusion_matrix,classification_report
 from src.utils import evaluate_model, save_object
 @dataclass
 class ModelTrainerConfig:
-    model_trainer_file_path=os.path.join('artifacts','model.pkl')
+    model_trainer_file_path=os.path.join('Artifacts','model.pkl')
     
     
 class ModelTrainer:
