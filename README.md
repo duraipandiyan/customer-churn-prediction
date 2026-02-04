@@ -1,5 +1,9 @@
 # 📉 Customer Churn Prediction – End‑to‑End Machine Learning Project
 
+Deployed web app: https://churn-prediction-app-qgby.onrender.com/predictdata
+
+Predict customer churn using behavior-based machine learning and threshold optimization
+
 ## 🔍 Project Overview
 
 Customer churn directly impacts revenue and long‑term business sustainability. This project focuses on **predicting customer churn using behavioral and engagement data**, moving beyond surface‑level satisfaction metrics to identify *early warning signals* of disengagement.
@@ -213,7 +217,7 @@ Threshold tuning (0.3–0.6) was applied to optimize business trade‑offs.
 * Highly interpretable (important for business decisions)
 * Stable predictions across thresholds
 
-**Final Decision Threshold:** 0.5
+**Final Decision Threshold:** 0.4
 
 ---
 
